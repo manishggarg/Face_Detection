@@ -1,3 +1,4 @@
+## Face Detection using OpenCV
 The basics of face detection using Haar Feature-based Cascade Classifiers.
 
 We will extend the same for eye detection & smile Detection in homework_solution.py.
